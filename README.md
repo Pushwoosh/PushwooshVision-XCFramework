@@ -5,3 +5,5 @@ This repository hosts the Pushwoosh visionOS SDK as an XCFramework based Swift P
 # Pushwoosh visionOS SDK
 
 [![SwiftPM compatible](https://img.shields.io/badge/SwiftPM-compatible-4BC51D.svg?style=flat)](https://swift.org/package-manager/)
+
+Pushwoosh team http://www.pushwoosh.com
